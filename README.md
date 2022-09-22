@@ -1,6 +1,6 @@
 # Learning
 
-Machine Learning Programs ~
+Statistical Learning ~ 
 
 1. LSRL Line
 
